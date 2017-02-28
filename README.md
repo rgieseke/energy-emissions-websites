@@ -1,4 +1,9 @@
-# Websites tracking energy and emissions production
+# Websites tracking energy production and emissions
+
+
+## Energymap
+
+http://www.energymap.info/
 
 
 ## WattTime
@@ -89,3 +94,13 @@ http://enipedia.tudelft.nl/wiki/Main_Page
 ## Live Generation
 
 http://data.generationdata.info/LiveGen
+
+
+## Energy Data
+
+http://wiki.openmod-initiative.org/wiki/Data
+
+
+## Open Power Systems Data
+
+http://open-power-system-data.org/

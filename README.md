@@ -116,3 +116,9 @@ http://carbontrackandtrace.com/
 Real-time energy charts for Europe.
 
 https://mwh.io/
+
+# Global Power Watch
+
+> Mapping of power plant location, plus analytical tools for emissions accounting, water use, and other climate impacts will be layered on top of the database to help users make more informed energy related decisions.
+
+http://globalpowerwatch.org/

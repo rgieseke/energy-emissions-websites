@@ -122,3 +122,9 @@ https://mwh.io/
 > Mapping of power plant location, plus analytical tools for emissions accounting, water use, and other climate impacts will be layered on top of the database to help users make more informed energy related decisions.
 
 http://globalpowerwatch.org/
+
+# The Power Sector Carbon Index
+
+Provides an estimate of the carbon dioxide (CO2) intensity of the U.S. power sector using publicly available data sources. Carbon intensity is measured in pounds of CO2 per Megawatt-hour (MWh) of electricity. 
+
+https://emissionsindex.org/
